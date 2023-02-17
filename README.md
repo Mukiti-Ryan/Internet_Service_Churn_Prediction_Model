@@ -10,4 +10,4 @@ GridSearchCV is used for hyperparameter tuning in machine learning models. It ex
 |-----------------------|-----------------|----------------------|-------------|
 | Training Set Accuracy |     82.52%      |        93.32%        |     N/A     |
 | Testing Set Accuracy  |     82.97%      |        92.98%        |     N/A     |
-| Overall Accuracy      |     82.50%      |        93.00%        |     96.35%. |
+| Overall Accuracy      |     82.50%      |        93.00%        |     96.35%  |
